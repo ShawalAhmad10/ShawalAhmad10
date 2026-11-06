@@ -1,33 +1,32 @@
-# Hi, I'm Shawal Ahmad
+# Hi, I'm Shawal Ahmad 👋
 
-Frontend Developer and BS Computer Science student at FAST NUCES.  
-I am focused on building modern web applications using **Next.js, TypeScript, Tailwind CSS, and JavaScript**.  
-Currently, I am working on portfolio-ready projects and exploring **AI-enabled web applications**.
+**Computer Science | Software Development · Applied AI · Data Analytics**  
+FAST-NUCES, Chiniot-Faisalabad, Pakistan
 
-## Tech Stack
-- JavaScript
-- TypeScript
-- C++
-- Python
-- React
-- Next.js
-- Tailwind CSS
-- Git/GitHub
-- Docker
-- AWS
+I work on practical software and AI-enabled applications, with a focus on understanding how systems behave—from APIs and data flows to testing and debugging. I have used AI coding assistance extensively in past projects and am actively strengthening my independent programming and engineering skills.
 
-## Current Focus
-- Building polished frontend and full-stack web projects
-- Improving project quality for GitHub and portfolio
-- Learning deployment, backend integration, and AI-enabled product workflows
+### Current focus
+- Building stronger Python, SQL, data analysis, and machine learning fundamentals.
+- Improving my ability to implement, test, debug, and explain backend and AI integrations.
+- Developing a smaller, evidence-based portfolio instead of collecting generic applications.
 
-## Featured Projects
-- **MedSenseAI** – AI-Powered Smart Pharmacy (Final Year Project)
-- **AI Resume Analyzer**
-- **Modern Developer Portfolio**
-- **Business Analytics Dashboard**
-- **AI SaaS Dashboard**
+### Projects
 
-## Connect With Me
-- LinkedIn: https://linkedin.com/in/shawalahmad97
+**MedSenseAI — AI-powered smart pharmacy (team final-year project)**  
+Worked on the AI-related side, including integration, execution, testing, and troubleshooting of prescription-processing and drug-interaction workflows. Full technical case study and latest implementation verification are in progress.
+
+**Customer Churn Intelligence — in planning / early development**  
+A data-science project focused on reproducible analysis, practical machine-learning evaluation, and meaningful customer-retention insights.
+
+**SupportIQ — planned**  
+An applied-AI customer-support system focusing on retrieval from approved documents, reliable answers, and escalation to a human when necessary.
+
+> Project status is shown explicitly. Planned features are not presented as completed work.
+
+### Technologies I have worked with
+JavaScript · TypeScript · React · Next.js · Python · SQL · PostgreSQL · REST APIs · Git/GitHub
+
+### Connect
+- [LinkedIn](https://www.linkedin.com/in/shawalahmad97/)
+- [GitHub](https://github.com/ShawalAhmad10)
 - Email: shawalahmad97@gmail.com
