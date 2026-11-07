@@ -1,32 +1,33 @@
 # Hi, I'm Shawal Ahmad 👋
 
-**Computer Science | Software Development · Applied AI · Data Analytics**  
-FAST-NUCES, Chiniot-Faisalabad, Pakistan
+**Software Engineer | Full Stack Developer**  
+**Applied AI · Data Science & Machine Learning · CRM & AI Automation**
 
-I work on practical software and AI-enabled applications, with a focus on understanding how systems behave—from APIs and data flows to testing and debugging. I have used AI coding assistance extensively in past projects and am actively strengthening my independent programming and engineering skills.
+BS Computer Science | FAST-NUCES, Chiniot-Faisalabad, Pakistan
 
-### Current focus
-- Building stronger Python, SQL, data analysis, and machine learning fundamentals.
-- Improving my ability to implement, test, debug, and explain backend and AI integrations.
-- Developing a smaller, evidence-based portfolio instead of collecting generic applications.
+I work on web applications, API integrations, and AI-enabled systems, with experience in service integration, testing, debugging, and AI-assisted development.
+
+My completed team final-year project, **MedSenseAI**, involved medication-safety workflows, AI-service integration, application testing, and technical troubleshooting. My main contribution focused on directing AI-assisted implementation work and supporting integration and verification.
+
+I also have practical experience with **GoHighLevel CRM operations** and **n8n automation workflows**.
 
 ### Projects
 
-**MedSenseAI — AI-powered smart pharmacy (team final-year project)**  
-Worked on the AI-related side, including integration, execution, testing, and troubleshooting of prescription-processing and drug-interaction workflows. Full technical case study and latest implementation verification are in progress.
+**MedSenseAI — Smart Pharmacy Platform**  
+Completed team FYP involving AI-integrated pharmacy workflows and medication-safety functionality.
 
-**Customer Churn Intelligence — in planning / early development**  
-A data-science project focused on reproducible analysis, practical machine-learning evaluation, and meaningful customer-retention insights.
+**Customer Churn Intelligence — In Progress**  
+Data Science and Machine Learning project focused on customer retention analysis, exploratory data analysis, and predictive modeling.
 
-**SupportIQ — planned**  
-An applied-AI customer-support system focusing on retrieval from approved documents, reliable answers, and escalation to a human when necessary.
+**SupportIQ — In Progress**  
+Applied AI project focused on document-grounded customer support, retrieval-augmented generation, and human escalation.
 
-> Project status is shown explicitly. Planned features are not presented as completed work.
+### Technologies
 
-### Technologies I have worked with
-JavaScript · TypeScript · React · Next.js · Python · SQL · PostgreSQL · REST APIs · Git/GitHub
+JavaScript · TypeScript · React · Next.js · Node.js · Express · Python · FastAPI · SQL · PostgreSQL · Git/GitHub
 
 ### Connect
-- [LinkedIn](https://www.linkedin.com/in/shawalahmad97/)
-- [GitHub](https://github.com/ShawalAhmad10)
-- Email: shawalahmad97@gmail.com
+
+- 🌐 [Portfolio](https://portfolio-shawalahmad.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shawalahmad97/)
+- 📧 shawalahmad97@gmail.com
